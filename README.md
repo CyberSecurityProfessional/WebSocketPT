@@ -1,2 +1,2 @@
 # WebSocketPT
-Web socket penetration testing research.
+Complete Web sockets penetration testing methodology research.
